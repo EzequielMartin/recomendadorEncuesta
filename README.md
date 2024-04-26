@@ -1,3 +1,5 @@
+# Descripcion:
+
 Esta versión esta hecha para ejecutarse desde la encuesta en Dialogflow, cuando se termina de responder la encuesta se envian los parametros al servidor web desarrollado en NodeJS. Desde una llamada en el servidor web se ejecuta este programa en Python donde se obtiene el proyecto recomendado, luego se le retorna la respuesta a la funcion en el servidor web y este le responde al usuario a travez del chatbot.
 
   
@@ -10,7 +12,7 @@ Esta versión esta hecha para ejecutarse desde la encuesta en Dialogflow, cuando
 
   
 
-python3 --version
+	python3 --version
 
 >si no funciona en vez de "python3" probar "py" o "python"
 
@@ -20,7 +22,7 @@ python3 --version
 
   
 
-python3 -m venv <environment_name>
+	python3 -m venv <environment_name>
 
   
 
@@ -34,7 +36,7 @@ python3 -m venv <environment_name>
 
   
 
-source <environment_name>/bin/activate
+	source <environment_name>/bin/activate
 
   
 
@@ -46,7 +48,7 @@ source <environment_name>/bin/activate
 
   
 
-pip install -r requirements.txt
+	pip install -r requirements.txt
 
   
 
@@ -54,7 +56,7 @@ pip install -r requirements.txt
 
   
 
-python3 main.py ia programacion infraestructura analisis diseno
+	python3 main.py ia programacion infraestructura analisis diseno
 
   
 
