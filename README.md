@@ -63,5 +63,4 @@ Esta versión esta hecha para ejecutarse desde la encuesta en Dialogflow, cuando
 >como comenté anteriormente si no funciona probar con "python" o "py" en vez de "python3".
 
 >"ia" "programacion" etc. son los parametros que hay que pasarle al programa para que calcule
-
 >que tanto se asemejan a las necesidades de los proyectos y poder recomendar el mas adecuado.
